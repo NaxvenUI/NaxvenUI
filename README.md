@@ -6,7 +6,11 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-NaxvenUI-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@NaxvenUI)
 [![GitHub](https://img.shields.io/badge/GitHub-NaxvenUI-181717?style=flat&logo=github&logoColor=white)](https://github.com/NaxvenUI)
+[![TikTok](https://img.shields.io/badge/TikTok-NaxvenUI-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@naxvenui)
+[![Instagram](https://img.shields.io/badge/Instagram-NaxvenUI-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/naxvenui)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-naxvenui-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/naxvenui)
+[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-naxvenui-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/naxvenui)
+[![Patreon](https://img.shields.io/badge/Patreon-naxvenui-FF424D?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/naxvenui)
 
 </div>
 
@@ -63,5 +67,7 @@ Hand-coded landing pages and UI templates using pure HTML, CSS and Vanilla JS. N
 **Free starting files on every repo. Premium finished templates on Buy Me a Coffee.**
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Support%20Naxven%20UI-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/naxvenui)
+[![Ko-Fi](https://img.shields.io/badge/Support%20Naxven%20UI-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/naxvenui)
+[![Patreon](https://img.shields.io/badge/Support%20Naxven%20UI-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/naxvenui)
 
 </div>
