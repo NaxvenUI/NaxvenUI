@@ -16,13 +16,13 @@
 
 Hand-coded landing pages and UI templates using pure HTML, CSS and Vanilla JS. No frameworks, no page builders, no shortcuts. Every template is optimized for performance and accessibility.
 
-- 95+ Google PageSpeed score on every template
+- 90+ Google PageSpeed score on every template
 - Clean, semantic HTML5
 - Modern CSS3 with no dependencies
 - Vanilla JS only
 
 ---
-
+<!--
 ## Templates
 
 | Project | Type | PageSpeed Desktop | PageSpeed Mobile |
@@ -38,7 +38,7 @@ Hand-coded landing pages and UI templates using pure HTML, CSS and Vanilla JS. N
 | Jewelry Store | Landing Page | coming soon | coming soon |
 | Classic Car Restoration | Landing Page | coming soon | coming soon |
 | Barbershop | Landing Page | coming soon | coming soon |
-
+-->
 ---
 
 ## How it works
