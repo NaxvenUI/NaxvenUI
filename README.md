@@ -8,6 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-NaxvenUI-181717?style=flat&logo=github&logoColor=white)](https://github.com/NaxvenUI)
 [![TikTok](https://img.shields.io/badge/TikTok-NaxvenUI-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@naxvenui)
 [![Instagram](https://img.shields.io/badge/Instagram-NaxvenUI-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/naxvenui)
+[![X](https://img.shields.io/badge/X-NaxvenUI-000000?style=flat&logo=x&logoColor=white)](https://x.com/NaxvenUI)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-naxvenui-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/naxvenui)
 [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-naxvenui-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/naxvenui)
 [![Patreon](https://img.shields.io/badge/Patreon-naxvenui-FF424D?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/naxvenui)
