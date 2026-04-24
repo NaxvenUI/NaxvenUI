@@ -21,7 +21,6 @@
 
 Hand-coded landing pages and UI templates using pure HTML, CSS and Vanilla JS. No frameworks, no page builders, no shortcuts. Every template is optimized for performance and accessibility.
 
-- 90+ Google PageSpeed score on every template
 - Clean, semantic HTML5
 - Modern CSS3 with no dependencies
 - Vanilla JS only
